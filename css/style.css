@@ -1,0 +1,12 @@
+.navbar-brand img {
+  min-height: 55px;
+  padding: 0 15px 10px;
+  height: 100px;
+}
+.img {
+  height: 10 0px;
+  width: 100px;
+}
+.container-fluid {
+  padding: 0;
+}
