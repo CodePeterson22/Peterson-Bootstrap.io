@@ -10,3 +10,9 @@
 .container-fluid {
   padding: 0;
 }
+.envelope{
+align: right;
+}
+.navbar-nav li a:hover {
+  color: white;
+}
